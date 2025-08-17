@@ -30,6 +30,7 @@ public class BulkUploadController {
 
     Logger logger = LoggerFactory.getLogger(BulkUploadController.class);
 
+
 	@Value("${aws.key}")
     private String awsKey;
     
