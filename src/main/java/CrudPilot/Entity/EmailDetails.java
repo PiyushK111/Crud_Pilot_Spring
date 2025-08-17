@@ -38,7 +38,8 @@ public class EmailDetails {
 		this.attachment = attachment;
 	}
     
-    
+
+
     
     
 }
